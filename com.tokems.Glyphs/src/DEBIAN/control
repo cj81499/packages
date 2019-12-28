@@ -1,0 +1,10 @@
+Package: com.tokems.Glyphs
+Name: Glyphs
+Version: 1.27
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.codethemed.iconbundles
+Description: tokems' Glyphs
+Depiction: http://cj81499.github.io/depictions/com.tokems.Glyphs/index.html
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Author: tokems <tokems.0@gmail.com>
+Section: Themes (tokems)

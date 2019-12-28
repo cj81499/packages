@@ -1,0 +1,10 @@
+Package: com.cj81499.cjGlyphs
+Name: cj Glyphs
+Version: 1.48
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.codethemed.iconbundles, com.tokems.Glyphs
+Description: cj's Glyphs
+Depiction: http://cj81499.github.io/depictions/com.cj81499.cjGlyphs/index.html
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Author: cj81499 <cjMakesIcons@gmail.com>
+Section: Themes (cj81499)
