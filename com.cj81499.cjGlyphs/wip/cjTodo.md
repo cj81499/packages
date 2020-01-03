@@ -2,9 +2,12 @@
 
 ## /u/cj81499
 
-|        | App Name       | BundleID |
-| :----- | :------------- | :------- |
-| FIXME: | Settings Icons | n/a      |
+| App Name       | BundleID             |
+| :------------- | :------------------- |
+| Settings Icons | n/a                  |
+| unc0ver        | science.xnu.undecimus|
+| Zebra          | xyz.willy.Zebra      |
+
 
 ## S.S. Requests
 
