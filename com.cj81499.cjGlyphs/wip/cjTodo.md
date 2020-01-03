@@ -7,6 +7,7 @@
 | Settings Icons | n/a                                   |
 | unc0ver        | science.xnu.undecimus                 |
 | Zebra          | xyz.willy.Zebra                       |
+| Phoenix        | supplies.wall.phoenix                 |
 | Measure        | com.apple.measure                     |
 | Files          | com.apple.DocumentsApp                |
 | Feedback       | com.apple.appleseed.FeedbackAssistant |
