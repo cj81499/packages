@@ -2,11 +2,15 @@
 
 ## /u/cj81499
 
-| App Name       | BundleID             |
-| :------------- | :------------------- |
-| Settings Icons | n/a                  |
-| unc0ver        | science.xnu.undecimus|
-| Zebra          | xyz.willy.Zebra      |
+| App Name       | BundleID                              |
+| :------------- | :------------------------------------ |
+| Settings Icons | n/a                                   |
+| unc0ver        | science.xnu.undecimus                 |
+| Zebra          | xyz.willy.Zebra                       |
+| Measure        | com.apple.measure                     |
+| Files          | com.apple.DocumentsApp                |
+| Feedback       | com.apple.appleseed.FeedbackAssistant |
+| Clock          | com.apple.mobiletimer                 |
 
 
 ## S.S. Requests
