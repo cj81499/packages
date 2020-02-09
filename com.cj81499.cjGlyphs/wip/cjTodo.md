@@ -5,11 +5,14 @@
 | App Name       | BundleID                              |
 | :------------- | :------------------------------------ |
 | Settings Icons | n/a                                   |
+| checkra1n      | kjc.loader                            |
 | unc0ver        | science.xnu.undecimus                 |
 | Zebra          | xyz.willy.Zebra                       |
 | Phoenix        | supplies.wall.phoenix                 |
 | Measure        | com.apple.measure                     |
 | Files          | com.apple.DocumentsApp                |
+| FindMy         | com.apple.findmy                      |
+| Shortcuts      | com.apple.shortcuts                   |
 | Feedback       | com.apple.appleseed.FeedbackAssistant |
 | Clock          | com.apple.mobiletimer                 |
 
