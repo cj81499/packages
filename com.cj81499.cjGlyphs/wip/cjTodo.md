@@ -14,7 +14,9 @@
 | FindMy         | com.apple.findmy                      |
 | Shortcuts      | com.apple.shortcuts                   |
 | Feedback       | com.apple.appleseed.FeedbackAssistant |
-| Clock          | com.apple.mobiletimer                 |
+| Snowboard      | com.spark.snowboardapplication        |
+| Home           | com.apple.Home                        |
+| TV             | com.apple.tv                          |
 
 
 ## S.S. Requests
