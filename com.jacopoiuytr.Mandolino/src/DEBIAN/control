@@ -1,0 +1,10 @@
+Package: com.jacopoiuytr.Mandolino
+Name: Mandolino
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.codethemed.iconbundles
+Description: jacopoiuytr's Mandolino
+Depiction: http://cj81499.github.io/depictions/com.jacopoiuytr.Mandolino/index.html
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Author: jacopoiuytr <jacopocastagno@hotmail.it>
+Section: Themes (jacopoiuytr)

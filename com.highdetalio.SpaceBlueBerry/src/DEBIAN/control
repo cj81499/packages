@@ -1,0 +1,10 @@
+Package: com.highdetalio.SpaceBlueBerry
+Name: Space BlueBerry
+Version: 1.8
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | winterboard, com.anemonetheming.anemone | com.codethemed.iconbundles
+Description: highdetalio's Space BlueBerry
+Depiction: http://cj81499.github.io/depictions/com.highdetalio.SpaceBlueBerry/index.html
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Author: highdetalio <gionata.bottari@gmail.com>
+Section: Themes (highdetalio)

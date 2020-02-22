@@ -10,14 +10,17 @@ if [ ! -d $1 ]; then
     exit 1
 fi
 
-echo "Removing old deb and zip"
+echo "Removing old deb"
 rm $1.deb
-rm $1.zip
+
 
 echo "Creating deb"
 dpkg-deb --build $1/src $1.deb
 
-echo "Creating zip"
-cd $1/src
-zip -rq ../../$1.zip * -x '**DEBIAN/*'
-cd ../..
+# echo "Removing old zip"
+# rm $1.zip
+
+# echo "Creating zip"
+# cd $1/src
+# zip -rq ../../$1.zip * -x '**DEBIAN/*'
+# cd ../..
