@@ -1,10 +1,8 @@
 Package: com.cj81499.cjLoader
 Name: cj Loader
 Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone | winterboard
 Description: cj's Loading Animations
-Depiction: http://cj81499.github.io/depictions/com.cj81499.cjLoader/
-Maintainer: cj81499 <cjMakesIcons@gmail.com>
 Author: cj81499 <cjMakesIcons@gmail.com>
-Section: Themes (cj81499)
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Depends: com.spark.snowboard
+Architecture: iphoneos-arm

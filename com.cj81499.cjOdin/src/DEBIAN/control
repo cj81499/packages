@@ -1,10 +1,8 @@
 Package: com.cj81499.cjOdin
 Name: cj Odin
 Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone | com.codethemed.iconbundles
 Description: cj’s Odin Icons
-Depiction: http://cj81499.github.io/depictions/com.cj81499.cjOdin/
-Maintainer: cj81499 <cjMakesIcons@gmail.com>
 Author: cj81499 <cjMakesIcons@gmail.com>
-Section: Themes (cj81499)
+Maintainer: cj81499 <cjMakesIcons@gmail.com>
+Depends: com.spark.snowboard
+Architecture: iphoneos-arm

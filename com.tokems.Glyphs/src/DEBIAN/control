@@ -4,5 +4,5 @@ Version: 1.27
 Description: tokems' Glyphs
 Author: tokems <tokems.0@gmail.com>
 Maintainer: cj81499 <cjMakesIcons@gmail.com>
-Depends: com.anemonetheming.anemone | com.codethemed.iconbundles
+Depends: com.spark.snowboard
 Architecture: iphoneos-arm
