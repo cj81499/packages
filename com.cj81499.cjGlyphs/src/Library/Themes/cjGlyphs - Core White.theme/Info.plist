@@ -12,7 +12,7 @@
         <key>TextColor</key>
         <string>#ffffff</string>
         <key>TextYoffset</key>
-        <real>16.75</real>
+        <real>14</real>
     </dict>
 
     <key>CalendarIconDaySettings</key>
