@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Check for args
 if [ $# -ne 1 ]; then
     echo "usage: $0 package_id"
@@ -12,7 +14,6 @@ fi
 
 echo "Removing old deb"
 rm $1.deb
-
 
 echo "Creating deb"
 dpkg-deb --build $1/src $1.deb
