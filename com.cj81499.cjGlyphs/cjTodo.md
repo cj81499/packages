@@ -2,6 +2,7 @@
 
 ## /u/cj81499
 
-- Settings Icons
-- Delete Chrome icon (In favor of the one included with Glyphs)
-- Redo Measure
+- Settings Icons (Belongs in Glyphs rather than cjGlyphs?)
+- Delete Chrome (In favor of the one included with Glyphs)
+- Delete iCleaner (In favor of the one included with Glyphs)
+- Update Measure
