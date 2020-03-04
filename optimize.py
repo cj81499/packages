@@ -13,15 +13,17 @@ class Optimizer:
         async with Optimizer._SEM:
             png_str = str(png)
             print(f"Start:  {png_str}")
-            await run_command("zopflipng", png_str, png_str)
+            await run_command("zopflipng", png_str, png_str, "-y")
             print(f"Finish: {png_str}")
 
 
 async def run_command(*args):
     # Create subprocess
-    process = await asyncio.create_subprocess_exec(args[0], *args[1:], stdout=asyncio.subprocess.PIPE)
+    process = await asyncio.create_subprocess_exec(*args, stdout=asyncio.subprocess.PIPE)
     # Wait for the subprocess to finish
     stdout, stderr = await process.communicate()
+    # if stdout:
+    #     print(f"stdout: {stdout.decode().strip()}")
     if stderr:
         print(f"WARN:   {stderr.decode().strip()}")
     # Return stdout
