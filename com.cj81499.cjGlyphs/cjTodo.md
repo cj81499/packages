@@ -10,7 +10,3 @@
 
 - SnapStats (com.quynh.SnapStats)
 - Measure (com.apple.measure)
-
-### Other
-
-- Delete Yahoo weather (In favor of the one included with Glyphs)
