@@ -1,8 +1,10 @@
 Package: com.cj81499.cjGlyphs
-Name: cj Glyphs
 Version: 1.50
-Description: cj's Glyphs
-Author: cj81499 <cjMakesIcons@gmail.com>
+Architecture: iphoneos-arm
 Maintainer: cj81499 <cjMakesIcons@gmail.com>
 Depends: com.spark.snowboard, com.tokems.Glyphs
-Architecture: iphoneos-arm
+Section: Themes
+Description: cj's Glyphs
+Author: cj81499 <cjMakesIcons@gmail.com>
+Depiction: https://cj81499.github.io/repo/depictions/com.cj81499.cjGlyphs/
+Name: cjGlyphs
