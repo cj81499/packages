@@ -1,7 +1,12 @@
 # Todo
 
-## /u/cj81499
+## u/cj81499
 
-| App Name       | BundleID |
-| :------------- | :------- |
-| Settings Icons | n/a      |
+### Add
+
+- Settings Icons (Belongs in Glyphs rather than cjGlyphs?)
+
+### Redesign
+
+- SnapStats (com.quynh.SnapStats)
+- Measure (com.apple.measure)
